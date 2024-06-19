@@ -1,1 +1,1 @@
-# Research-Algortihm
+# Disease prediction using machine learning allgorithm
